@@ -6,16 +6,6 @@
 Matisse                                         
 https://github.com/zhihu/Matisse
 
-Download
+預覽
 --------
-
-You can download [the latest jar here][jar].
-
-You can also depend on the .jar through Maven:
-
-```xml
-<dependency>
-  <groupId>com.squareup.phrase</groupId>
-  <artifactId>phrase</artifactId>
-  <version>(insert latest version)</version>
-</dependency>
+![image](http://i.imgur.com/SWJXaIM.jpg)  
