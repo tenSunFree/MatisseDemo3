@@ -1,0 +1,8 @@
+<resources>
+    <style name="ImageTranslucentTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <!--Android 5.x開始 需要把顏色設置透明, 否則導航欄會呈現系統默認的淺灰色-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
