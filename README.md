@@ -1,9 +1,9 @@
 簡介
 ==================================
-對於本機圖片影片的瀏覽與選擇
+對於本機圖片影片的瀏覽與選擇                                         
 取材自Matisse, 修改而成
 
-Matisse
+Matisse                                         
 https://github.com/zhihu/Matisse
 
 Download
